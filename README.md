@@ -6,7 +6,7 @@ Following features/technologies/techniques/services are applied :
 
 2) **Sessions & cookies** ( "express-session" , "connect-mongodb-session" ) : Applying sessions and cookies logic for enhancement of the application security 
 
-3) **Security Features **: 
+3) **Security Features**  : 
 
    A) Authentication : using cookies and sessions for Authentication validation  
 
