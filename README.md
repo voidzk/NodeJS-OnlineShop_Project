@@ -5,7 +5,7 @@
 Following features/technologies/techniques/services are  **implemented by me** following NodeJS Course 
 
 
-1)  **Mongoose** : for advanced features of database management 
+1)  Mongoose : for advanced features of database management 
 
 2) **Sessions & cookies** ( "express-session" , "connect-mongodb-session" ) : Applying sessions and cookies logic for enhancement of the application security 
 
