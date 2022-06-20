@@ -1,6 +1,9 @@
 # NodeJSCourse--OnlineShopProject 
 
-Following features/technologies/techniques/services are applied : 
+**Online-Shop Web App**  for ( Posting products for sale ,  buying products (cart/ payment services / invoice document for purchases ) 
+
+Following features/technologies/techniques/services are  **implemented by me** following NodeJS Course 
+
 
 1)  **Mongoose** : for advanced features of database management 
 
@@ -8,17 +11,17 @@ Following features/technologies/techniques/services are applied :
 
 3) **Security Features**  : 
 
-   A) Authentication : using cookies and sessions for Authentication validation  
+   A) **Authentication** : using cookies and sessions for Authentication validation  
 
-   B) Encryption ("bcrypt") : for password encryption  
+   B) **Encryption** ("bcrypt") : for password encryption  
 
-   C) CSRF protection ("csurf"): for Cross-site request forgery protection 
+   C) **CSRF protection** ("csurf"): for Cross-site request forgery protection 
 
-   D) Custom Encrypted Tokens("crypto-js") : For more enhanced security regarding authentication such as password reset requests.  
+   D) **Custom Encrypted Tokens** ("crypto-js") : For more enhanced security regarding authentication such as password reset requests.  
 
-   C) Authorization : Custom logic implemented in controller functions for user authorization such as user permission restrictions logic 
+   C) **Authorization** : Custom logic implemented in controller functions for user authorization such as user permission restrictions logic 
 
-   D) Validation("express-validator") : enhanced security with input validation /Data Sanitizing  
+   D) **Validation** ("express-validator") : enhanced security with input validation /Data Sanitizing  
 
 
 4) **Error-Handling** : error-handling logic applied for enhanced application performance / user experience  
